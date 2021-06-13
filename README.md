@@ -1,7 +1,7 @@
 # ytDownloader
 Ein selberprogrammierter YouTube Downloader
 
-##Anforderungen:
+##Anforderungen: 
 -Curl ist Installiert  
 -NodeJs ist Installiert
 
