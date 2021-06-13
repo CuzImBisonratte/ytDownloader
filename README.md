@@ -1,12 +1,12 @@
 # ytDownloader
 Ein selberprogrammierter YouTube Downloader
 
-##Anforderungen:   
+## Anforderungen:   
 -Curl ist Installiert  
 -NodeJs ist Installiert
 
-##Installation
+## Installation
 -installer.bat ausführen
 
-##Nutzen
+## Nutzen
 -run.bat ausführen
