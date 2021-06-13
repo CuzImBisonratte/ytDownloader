@@ -6,4 +6,3 @@ curl --output package-lock.json https://cuzimbisonratte.github.io/ytDownloader/p
 curl --output package.json https://cuzimbisonratte.github.io/ytDownloader/package.json
 cd ..
 del /f installer.bat
-pause
