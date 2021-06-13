@@ -1,17 +1,17 @@
 {
-  "name": "gottbot",
-  "version": "1.0.0",
-  "description": "Der Gottbot",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "CuzImBisonratte",
-  "license": "ISC",
-  "dependencies": {
-    "discord.js": "^12.5.3",
-    "ms": "^2.1.3",
-    "ytdl-core": "^4.8.2",
-    "ytsr": "^3.5.0"
-  }
+    "name": "downloader",
+    "version": "1.0.0",
+    "description": "Mein YouTube downloader",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "CuzImBisonratte",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.5.3",
+        "ms": "^2.1.3",
+        "ytdl-core": "^4.8.2",
+        "ytsr": "^3.5.0"
+    }
 }
